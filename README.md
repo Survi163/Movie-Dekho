@@ -1,12 +1,9 @@
-# React + Vite
+# Movie Dekho
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+"Movie Dekho" is a web-based movie discovery platform designed to enhance the user experience of finding and exploring films. 
 
-Currently, two official plugins are available:
+## Technologies
+It is built using a modern web development stack, including React.js, Redux, HTML, CSS, and JavaScript for the frontend, and Node.js, Express.js, and MongoDB Atlas for the backend. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+The platform offers features such as advanced search filters, personalized recommendations, user reviews and ratings, and watchlist management, aiming to simplify the movie discovery process and provide users with a comprehensive and engaging experience.
